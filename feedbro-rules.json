@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1641492212613",
+        "schema": 1,
+        "enabled": true,
+        "fallthrough": true,
+        "name": "Vuln_HeadsUp",
+        "trigger": "1",
+        "contexttype": "1",
+        "contextvalue": [
+            "1"
+        ],
+        "match": "1",
+        "conditions": [
+            {
+                "target": "1",
+                "mode": "2",
+                "value": "vulnerability",
+                "casemode": "2"
+            },
+            {
+                "target": "1",
+                "mode": "2",
+                "value": "vuln",
+                "casemode": "2"
+            },
+            {
+                "target": "1",
+                "mode": "2",
+                "value": "exploit",
+                "casemode": "2"
+            }
+        ],
+        "actions": [
+            {
+                "type": "6",
+                "value": "chime.wav"
+            }
+        ],
+        "contextvaluetext": []
+    }
+]
