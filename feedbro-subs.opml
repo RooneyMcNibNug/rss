@@ -283,6 +283,10 @@
             xmlUrl="https://blog.virustotal.com/feeds/posts/default" htmlUrl="https://blog.virustotal.com/"/>
       <outline text="VMWare Security Blog" title="VMWare Security Blog" type="rss" 
             xmlUrl="https://blogs.vmware.com/security/rss.xml" htmlUrl="https://blogs.vmware.com/security"/>
+      <outline text="InfoCon - Cons" title="InfoCon - Cons" type="rss" 
+            xmlUrl="https://infocon.org/infocon.org-css/infoconorg-cons.rss" htmlUrl="https://infocon.org/cons/"/>
+      <outline text="InfoCon - Skills" title="InfoCon - Skills" type="rss" 
+            xmlUrl="https://infocon.org/infocon.org-css/infoconorg-skills.rss" htmlUrl="https://infocon.org/skills/"/>
   </outline>
   <outline title="FOIA" text="FOIA">
       <outline text="BGA Newsroom" title="BGA Newsroom" type="rss" 
