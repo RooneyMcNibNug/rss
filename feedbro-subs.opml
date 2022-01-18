@@ -193,6 +193,8 @@
             xmlUrl="https://www.atlassian.com/blog/feed" htmlUrl="https://www.atlassian.com/blog"/>
       <outline text="Zabbix Blog » Feed" title="Zabbix Blog » Feed" type="rss" 
             xmlUrl="https://blog.zabbix.com/feed/" htmlUrl="https://blog.zabbix.com"/>
+      <outline text="DuckDuckGo Privacy Blog" title="DuckDuckGo Privacy Blog" type="rss" 
+            xmlUrl="https://spreadprivacy.com/rss/" htmlUrl="https://spreadprivacy.com"/>
   </outline>
   <outline title="InfoSec" text="InfoSec">
       <outline text="2600" title="2600" type="rss" 
