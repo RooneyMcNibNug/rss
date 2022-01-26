@@ -195,6 +195,8 @@
             xmlUrl="https://blog.zabbix.com/feed/" htmlUrl="https://blog.zabbix.com"/>
       <outline text="DuckDuckGo Privacy Blog" title="DuckDuckGo Privacy Blog" type="rss" 
             xmlUrl="https://spreadprivacy.com/rss/" htmlUrl="https://spreadprivacy.com"/>
+      <outline text="HashiCorp Blog" title="HashiCorp Blog" type="rss" 
+            xmlUrl="https://www.hashicorp.com/blog/products/terraform/feed.xml" htmlUrl="https://www.hashicorp.com/blog"/>
   </outline>
   <outline title="InfoSec" text="InfoSec">
       <outline text="2600" title="2600" type="rss" 
