@@ -199,6 +199,10 @@
             xmlUrl="https://www.hashicorp.com/blog/products/terraform/feed.xml" htmlUrl="https://www.hashicorp.com/blog"/>
       <outline text="r/Perl" title="Perl SubReddit" type="rss" 
             xmlUrl="https://www.reddit.com/r/perl/.rss" htmlUrl="https://www.reddit.com/r/perl"/>    
+      <outline text="Ansible" title="Ansible Blog" type="rss" 
+            xmlUrl="https://www.ansible.com/blog/rss.xml" htmlUrl="https://www.ansible.com/blog"/> 
+      <outline text="Apple Developer" title="Apple Developer" type="rss" 
+            xmlUrl="http://developer.apple.com/news/rss/news.rss" htmlUrl="https://developer.apple.com/news/"/> 
   </outline>
   <outline title="InfoSec" text="InfoSec">
       <outline text="2600" title="2600" type="rss" 
