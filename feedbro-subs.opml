@@ -295,6 +295,8 @@
             xmlUrl="https://infocon.org/infocon.org-css/infoconorg-cons.rss" htmlUrl="https://infocon.org/cons/"/>
       <outline text="InfoCon - Skills" title="InfoCon - Skills" type="rss" 
             xmlUrl="https://infocon.org/infocon.org-css/infoconorg-skills.rss" htmlUrl="https://infocon.org/skills/"/>
+      <outline text="Flipper Zero Blog" title="Flipper Zero Blog" type="rss" 
+            xmlUrl="https://blog.flipperzero.one/rss" htmlUrl="https://blog.flipperzero.one/"/>
   </outline>
   <outline title="FOIA" text="FOIA">
       <outline text="BGA Newsroom" title="BGA Newsroom" type="rss" 
