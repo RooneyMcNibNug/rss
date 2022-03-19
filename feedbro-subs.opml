@@ -200,7 +200,9 @@
       <outline text="r/Perl" title="Perl SubReddit" type="rss" 
             xmlUrl="https://www.reddit.com/r/perl/.rss" htmlUrl="https://www.reddit.com/r/perl"/>
       <outline text="Apple Developer" title="Apple Developer" type="rss" 
-            xmlUrl="http://developer.apple.com/news/rss/news.rss" htmlUrl="https://developer.apple.com/news/"/> 
+            xmlUrl="http://developer.apple.com/news/rss/news.rss" htmlUrl="https://developer.apple.com/news/"/>
+      <outline text="Mattermost Blog" title="Mattermost Blog Feed" type="rss" 
+            xmlUrl="https://mattermost.com/feed/" htmlUrl="https://mattermost.com/blog/"/> 
   </outline>
   <outline title="InfoSec" text="InfoSec">
       <outline text="2600" title="2600" type="rss" 
