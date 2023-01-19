@@ -196,4 +196,6 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCPzkstbidZniw38EM0I8GA" htmlUrl="https://www.youtube.com/channel/UCCPzkstbidZniw38EM0I8GA"/>
       <outline text="Retroid Pocket" title="Retroid Pocket" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2_QopmLfIrLPZvBi3MUU1w" htmlUrl="https://www.youtube.com/channel/UC2_QopmLfIrLPZvBi3MUU1w"/>
-  </outline>
+      <outline text="Brad Smith" title="Brad Smith" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwfgpMf8cpzWsvM5Dn7e6lA" htmlUrl="https://www.youtube.com/channel/UCwfgpMf8cpzWsvM5Dn7e6lA"/>
+</outline>
