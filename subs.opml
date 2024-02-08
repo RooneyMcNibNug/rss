@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <dateCreated>Thu, 08 Feb 2024 21:01:27 +0000</dateCreated>
+    <title>Tiny Tiny RSS Feed Export</title>
+  </head>
+  <body>
+    <outline text="FOIA" ttrssSortOrder="0">
+      <outline type="rss" text="Muckrock News" xmlUrl="https://www.muckrock.com/news/feeds" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.muckrock.com/news/"/>
+      <outline type="rss" text="Public Record Sourcerer" xmlUrl="https://publicrecordsourcerer.org/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://publicrecordsourcerer.org"/>
+    </outline>
+    <outline text="Philosophy" ttrssSortOrder="0">
+      <outline type="rss" text="Aeon | a world of ideas" xmlUrl="https://aeon.co/feed.rss" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://aeon.co"/>
+      <outline type="rss" text="Happy Hour at Hippel's" xmlUrl="https://happyhourathippels.wordpress.com/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://happyhourathippels.wordpress.com"/>
+      <outline type="rss" text="The Philosopher" xmlUrl="https://www.thephilosopher1923.org/blog-feed.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.thephilosopher1923.org/articles"/>
+    </outline>
+    <outline text="Tech" ttrssSortOrder="0">
+      <outline type="rss" text="Ansible Blog" xmlUrl="https://www.ansible.com/blog/rss.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.ansible.com/blog"/>
+      <outline type="rss" text="Fedora Magazine" xmlUrl="https://fedoramagazine.org/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://fedoramagazine.org/"/>
+      <outline type="rss" text="Julia Evans" xmlUrl="https://jvns.ca/atom.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="http://jvns.ca"/>
+      <outline type="rss" text="Mattermost Blog" xmlUrl="https://mattermost.com/blog/feed" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://mattermost.com/blog/"/>
+      <outline type="rss" text="Matthew Garrett" xmlUrl="https://mjg59.dreamwidth.org/data/rss" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://mjg59.dreamwidth.org/"/>
+      <outline type="rss" text="Micah Lee's Blog" xmlUrl="https://micahflee.com/feed.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://micahflee.com/"/>
+      <outline type="rss" text="OpenBSD Journal" xmlUrl="https://www.undeadly.org/cgi?action=rss" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.undeadly.org/"/>
+      <outline type="rss" text="OSMC" xmlUrl="https://osmc.tv/rss" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://osmc.tv/"/>
+      <outline type="rss" text="Pi-hole" xmlUrl="https://pi-hole.net/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://pi-hole.net"/>
+      <outline type="rss" text="Planet Perl" xmlUrl="https://perl.theplanetarium.org/atom.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://perl.theplanetarium.org/"/>
+      <outline type="rss" text="Qubes OS" xmlUrl="https://www.qubes-os.org/feed.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.qubes-os.org/"/>
+      <outline type="rss" text="Signal Blog" xmlUrl="https://signal.org/blog/rss.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://signal.org/blog/"/>
+      <outline type="rss" text="Spread Privacy" xmlUrl="https://spreadprivacy.com/rss/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://spreadprivacy.com/"/>
+      <outline type="rss" text="Tails - News" xmlUrl="https://tails.net/news/index.en.rss" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://tails.net/news/index.en.html"/>
+      <outline type="rss" text="The Mullvad Blog" xmlUrl="https://mullvad.net/en/blog/feed/atom" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.mullvad.net/blog/"/>
+      <outline type="rss" text="The Obscuritory" xmlUrl="https://obscuritory.com/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://obscuritory.com"/>
+      <outline type="rss" text="tonsky.me" xmlUrl="https://tonsky.me/atom.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://tonsky.me/"/>
+      <outline type="rss" text="Tor Project blog" xmlUrl="https://blog.torproject.org/feed.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://blog.torproject.org/"/>
+    </outline>
+    <outline text="Youtube" ttrssSortOrder="0">
+      <outline type="rss" text="3Blue1Brown" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"/>
+      <outline type="rss" text="Acid Horizon" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqzFQr1LCC8xrr0fMcRctYg" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCqzFQr1LCC8xrr0fMcRctYg"/>
+      <outline type="rss" text="Aeon Video" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC88WrCBH7BJi1je9q5AMf4Q" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC88WrCBH7BJi1je9q5AMf4Q"/>
+      <outline type="rss" text="Ahoy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCE1jXbVAGJQEORz9nZqb5bQ" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCE1jXbVAGJQEORz9nZqb5bQ"/>
+      <outline type="rss" text="Amoeba" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9DkCKm4_VDztRRyge4mCJQ" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC9DkCKm4_VDztRRyge4mCJQ"/>
+      <outline type="rss" text="a sleep deprived dog" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHxoVoRHB8qwtSqHFBCeaAw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCHxoVoRHB8qwtSqHFBCeaAw"/>
+      <outline type="rss" text="Babish Culinary Universe" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJHA_jMfCvEnv-3kRjTCQXw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw"/>
+      <outline type="rss" text="Channel 5 with Andrew Callaghan" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-AQKm7HUNMmxjdS371MSwg" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC-AQKm7HUNMmxjdS371MSwg"/>
+      <outline type="rss" text="Chinese Cooking Demystified" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC54SLBnD5k5U3Q6N__UjbAw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC54SLBnD5k5U3Q6N__UjbAw"/>
+      <outline type="rss" text="Claire Saffitz x Dessert Person" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvw6Y1kr_8bp6B5m1dqNyiw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCvw6Y1kr_8bp6B5m1dqNyiw"/>
+      <outline type="rss" text="Computerphile" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA"/>
+      <outline type="rss" text="Crime Pays But Botany Doesn't" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3CBOpT2-NRvoc2ecFMDCsA" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC3CBOpT2-NRvoc2ecFMDCsA"/>
+      <outline type="rss" text="criterioncollection" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAP57cF-FSjJKzzXg7ntPlQ" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCAP57cF-FSjJKzzXg7ntPlQ"/>
+      <outline type="rss" text="Defunctland" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVo63lbKHjC04KqYhwSZ_Pg" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCVo63lbKHjC04KqYhwSZ_Pg"/>
+      <outline type="rss" text="donoteat01" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFdazs-6CNzSVv1J0a-qy4A" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCFdazs-6CNzSVv1J0a-qy4A"/>
+      <outline type="rss" text="Field of Vision" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCa2hckND-aq_hTu-Q-ZyfvA" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCa2hckND-aq_hTu-Q-ZyfvA"/>
+      <outline type="rss" text="FOND/SOUND" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3N5FSflR4maP3veQ3mZe4A" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC3N5FSflR4maP3veQ3mZe4A"/>
+      <outline type="rss" text="GothamChess" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQHX6ViZmPsWiYSFAyS0a3Q" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCQHX6ViZmPsWiYSFAyS0a3Q"/>
+      <outline type="rss" text="Julia Evans" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnWO-PRzuPnPBg0KCg_RVPA" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCnWO-PRzuPnPBg0KCg_RVPA"/>
+      <outline type="rss" text="Kurzgesagt – In a Nutshell" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"/>
+      <outline type="rss" text="LGR" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCLx053rWZxCiYWsBETgdKrQ" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCLx053rWZxCiYWsBETgdKrQ"/>
+      <outline type="rss" text="LiveOverflow" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w"/>
+      <outline type="rss" text="LockPickingLawyer" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCm9K6rby98W8JigLoZOh6FQ" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ"/>
+      <outline type="rss" text="Mountains of Books" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTOpzYH-oB1_TFVTodtXhpg" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCTOpzYH-oB1_TFVTodtXhpg"/>
+      <outline type="rss" text="my mechanics" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMrMVIBtqFW6O0-MWq26gqw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCMrMVIBtqFW6O0-MWq26gqw"/>
+      <outline type="rss" text="nathanfielder" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIdVOofoUN2rWQPLHX6xmJw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCIdVOofoUN2rWQPLHX6xmJw"/>
+      <outline type="rss" text="Numberphile" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A"/>
+      <outline type="rss" text="PBS Space Time" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7_gcs09iThXybpVgjHZ_7g" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g"/>
+      <outline type="rss" text="Philosophy Tube" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2PA-AKmVpU6NKCGtZq_rKQ" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ"/>
+      <outline type="rss" text="Practical Engineering" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMOqf8ab-42UUQIdVoKwjlQ" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ"/>
+      <outline type="rss" text="Primitive Technology" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAL3JXZSzSm8AlZyD3nQdBA" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA"/>
+      <outline type="rss" text="samy kamkar" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4m2G6T18_JcjwxwtwKJijw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC4m2G6T18_JcjwxwtwKJijw"/>
+      <outline type="rss" text="scanlime" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaEgw3321ct_PE4PJvdhXEQ" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCaEgw3321ct_PE4PJvdhXEQ"/>
+      <outline type="rss" text="suckerpinch" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3azLjQuz9s5qk76KEXaTvA" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC3azLjQuz9s5qk76KEXaTvA"/>
+      <outline type="rss" text="Tavis Ormandy" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC13ErEjtcvhTElLckfmwwXg" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC13ErEjtcvhTElLckfmwwXg"/>
+      <outline type="rss" text="Technology Connections" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCy0tKL1T7wFoYcxCe0xjN6Q" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q"/>
+      <outline type="rss" text="The Cinema Cartography" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL5kBJmBUVFLYBDiSiK1VDw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCL5kBJmBUVFLYBDiSiK1VDw"/>
+      <outline type="rss" text="The Cutting Room Floor" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChQt8CuTtSnTSaMTVHQRYcA" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UChQt8CuTtSnTSaMTVHQRYcA"/>
+      <outline type="rss" text="The Public Domain Review" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCv6_HST2Gb6GKWznkj10yRQ" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCv6_HST2Gb6GKWznkj10yRQ"/>
+      <outline type="rss" text="Thomas Nail" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0pEe32BgjXN6tGj3hlMFZg" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC0pEe32BgjXN6tGj3hlMFZg"/>
+      <outline type="rss" text="Thomas Pynchon on Reddit" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnZt57rgN-H5CURYfyu5N_g" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCnZt57rgN-H5CURYfyu5N_g"/>
+      <outline type="rss" text="TubeTimeUS" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1jkFi1jLTenKxly_Adt2Dw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC1jkFi1jLTenKxly_Adt2Dw"/>
+      <outline type="rss" text="Unicorn Riot" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeHbMlHDec5NmJfiQXMYGXQ" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCeHbMlHDec5NmJfiQXMYGXQ"/>
+      <outline type="rss" text="Unlearning Economics" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4V_jMdRbbTrmBVJB6FDzgw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC4V_jMdRbbTrmBVJB6FDzgw"/>
+      <outline type="rss" text="Veritasium" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"/>
+      <outline type="rss" text="WIRED" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCftwRNsjfRo08xYE31tkiyw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCftwRNsjfRo08xYE31tkiyw"/>
+      <outline type="rss" text="Zer0 Books and Repeater Media" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyoQK-mZXr2ws4C0nXGCH1w" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCyoQK-mZXr2ws4C0nXGCH1w"/>
+      <outline type="rss" text="Zoe Baker" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3FD64RRsrCLpiZNkq7ZkSg" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC3FD64RRsrCLpiZNkq7ZkSg"/>
+      <outline type="rss" text="李子柒 Liziqi" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoC47do520os_4DBMEFGg4A" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCoC47do520os_4DBMEFGg4A"/>
+    </outline>
+    <outline type="rss" text="Articles and Investigations - ProPublica" xmlUrl="http://feeds.propublica.org/propublica/main" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.propublica.org/feeds/main"/>
+    <outline type="rss" text="Recent articles from Ill Will" xmlUrl="https://illwill.com/feed.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://illwill.com/"/>
+    <outline text="tt-rss-prefs" schema-version="140">
+      <outline pref-name="ALLOW_DUPLICATE_POSTS" value="false"/>
+      <outline pref-name="AUTO_ASSIGN_LABELS" value="false"/>
+      <outline pref-name="BLACKLISTED_TAGS" value="main, generic, misc, uncategorized, blog, blogroll, general, news"/>
+      <outline pref-name="CDM_AUTO_CATCHUP" value="false"/>
+      <outline pref-name="CDM_EXPANDED" value="true"/>
+      <outline pref-name="_COLLAPSED_FEEDLIST" value="false"/>
+      <outline pref-name="_COLLAPSED_LABELS" value="false"/>
+      <outline pref-name="_COLLAPSED_SPECIAL" value="false"/>
+      <outline pref-name="_COLLAPSED_UNCAT" value="false"/>
+      <outline pref-name="COMBINED_DISPLAY_MODE" value="true"/>
+      <outline pref-name="CONFIRM_FEED_CATCHUP" value="true"/>
+      <outline pref-name="DEFAULT_ARTICLE_LIMIT" value="30"/>
+      <outline pref-name="_DEFAULT_INCLUDE_CHILDREN" value="false"/>
+      <outline pref-name="DEFAULT_SEARCH_LANGUAGE" value=""/>
+      <outline pref-name="DEFAULT_UPDATE_INTERVAL" value="30"/>
+      <outline pref-name="_DEFAULT_VIEW_LIMIT" value="30"/>
+      <outline pref-name="_DEFAULT_VIEW_MODE" value="adaptive"/>
+      <outline pref-name="_DEFAULT_VIEW_ORDER_BY" value="default"/>
+      <outline pref-name="DIGEST_CATCHUP" value="false"/>
+      <outline pref-name="DIGEST_ENABLE" value="false"/>
+      <outline pref-name="DIGEST_PREFERRED_TIME" value="00:00"/>
+      <outline pref-name="ENABLE_API_ACCESS" value="true"/>
+      <outline pref-name="_ENABLED_PLUGINS" value=""/>
+      <outline pref-name="ENABLE_FEED_CATS" value="true"/>
+      <outline pref-name="FEEDS_SORT_BY_UNREAD" value="false"/>
+      <outline pref-name="FRESH_ARTICLE_MAX_AGE" value="24"/>
+      <outline pref-name="HIDE_READ_FEEDS" value="false"/>
+      <outline pref-name="HIDE_READ_SHOWS_SPECIAL" value="true"/>
+      <outline pref-name="LONG_DATE_FORMAT" value="D, M d Y - G:i"/>
+      <outline pref-name="_MOBILE_BROWSE_CATS" value="true"/>
+      <outline pref-name="_MOBILE_ENABLE_CATS" value="false"/>
+      <outline pref-name="_MOBILE_HIDE_READ" value="false"/>
+      <outline pref-name="_MOBILE_REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="_MOBILE_SHOW_IMAGES" value="false"/>
+      <outline pref-name="_MOBILE_SORT_FEEDS_UNREAD" value="false"/>
+      <outline pref-name="ON_CATCHUP_SHOW_NEXT_FEED" value="false"/>
+      <outline pref-name="_PREFS_ACTIVE_TAB" value=""/>
+      <outline pref-name="_PREFS_SHOW_EMPTY_CATS" value="false"/>
+      <outline pref-name="PURGE_OLD_DAYS" value="60"/>
+      <outline pref-name="PURGE_UNREAD_ARTICLES" value="true"/>
+      <outline pref-name="REVERSE_HEADLINES" value="false"/>
+      <outline pref-name="SHORT_DATE_FORMAT" value="M d, G:i"/>
+      <outline pref-name="SHOW_CONTENT_PREVIEW" value="true"/>
+      <outline pref-name="SORT_HEADLINES_BY_FEED_DATE" value="false"/>
+      <outline pref-name="SSL_CERT_SERIAL" value=""/>
+      <outline pref-name="STRIP_IMAGES" value="false"/>
+      <outline pref-name="STRIP_UNSAFE_TAGS" value="true"/>
+      <outline pref-name="_THEME_ID" value="0"/>
+      <outline pref-name="USER_CSS_THEME" value=""/>
+      <outline pref-name="USER_LANGUAGE" value=""/>
+      <outline pref-name="USER_STYLESHEET" value=""/>
+      <outline pref-name="USER_TIMEZONE" value="Automatic"/>
+      <outline pref-name="VFEED_GROUP_BY_FEED" value="false"/>
+    </outline>
+    <outline text="tt-rss-labels" schema-version="140"/>
+    <outline text="tt-rss-filters" schema-version="140"/>
+  </body>
+</opml>
