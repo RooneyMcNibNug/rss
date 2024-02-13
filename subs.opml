@@ -87,5 +87,7 @@
     </outline>
     <outline type="rss" text="Articles and Investigations - ProPublica" xmlUrl="http://feeds.propublica.org/propublica/main" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.propublica.org/feeds/main"/>
     <outline type="rss" text="Recent articles from Ill Will" xmlUrl="https://illwill.com/feed.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://illwill.com/"/>
+    <outline type="rss" text="On Computer Games..." xmlUrl="https://oncomputer.games/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://oncomputer.games/"/>
+    <outline type="rss" text="On Pop Music" xmlUrl="https://onpopmusic.com/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://onpopmusic.com/"/>
   </body>
 </opml>
