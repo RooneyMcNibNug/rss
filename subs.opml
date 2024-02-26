@@ -94,5 +94,6 @@
     <outline type="rss" text="Recent articles from Ill Will" xmlUrl="https://illwill.com/feed.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://illwill.com/"/>
     <outline type="rss" text="On Computer Games..." xmlUrl="https://oncomputer.games/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://oncomputer.games/"/>
     <outline type="rss" text="On Pop Music" xmlUrl="https://onpopmusic.com/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://onpopmusic.com/"/>
+    <outline type="rss" text="Final Fantasy VIII is the Best" xmlUrl="https://ff8isthe.best/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://ff8isthe.best"/>
   </body>
 </opml>
