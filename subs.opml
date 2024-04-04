@@ -33,6 +33,7 @@
       <outline type="rss" text="The Obscuritory" xmlUrl="https://obscuritory.com/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://obscuritory.com"/>
       <outline type="rss" text="tonsky.me" xmlUrl="https://tonsky.me/atom.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://tonsky.me/"/>
       <outline type="rss" text="Tor Project blog" xmlUrl="https://blog.torproject.org/feed.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://blog.torproject.org/"/>
+      <outline type="rss" text="Low-Tech Magazine" xmlUrl="https://solar.lowtechmagazine.com/posts/index.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://solar.lowtechmagazine.com"/>
     </outline>
     <outline text="Youtube" ttrssSortOrder="0">
       <outline type="rss" text="3Blue1Brown" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"/>
@@ -91,7 +92,7 @@
       <outline type="rss" text="Huygens Optics" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ"/>
       <outline type="rss" text="f4mi" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSWMraguMlNanVQgseTTr_Q" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCSWMraguMlNanVQgseTTr_Q"/>
       <outline type="rss" text="DanielNaroditskyGM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHP9CdeguNUI-_nBv_UXBhw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCHP9CdeguNUI-_nBv_UXBhw"/>
-      <outline type="rss" text="Low-Tech Magazine" xmlUrl="https://solar.lowtechmagazine.com/posts/index.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://solar.lowtechmagazine.com"/>
+      <outline type="rss" text="The Video Game History Foundation" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCicVsS0zrUPrA3RaOJO5oBg" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCicVsS0zrUPrA3RaOJO5oBg"/>
     </outline>
     <outline type="rss" text="Articles and Investigations - ProPublica" xmlUrl="http://feeds.propublica.org/propublica/main" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.propublica.org/feeds/main"/>
     <outline type="rss" text="Recent articles from Ill Will" xmlUrl="https://illwill.com/feed.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://illwill.com/"/>
