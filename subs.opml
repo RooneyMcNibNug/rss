@@ -35,6 +35,7 @@
       <outline type="rss" text="Tor Project blog" xmlUrl="https://blog.torproject.org/feed.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://blog.torproject.org/"/>
       <outline type="rss" text="Low-Tech Magazine" xmlUrl="https://solar.lowtechmagazine.com/posts/index.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://solar.lowtechmagazine.com"/>
       <outline type="rss" text="Veronica Explains" xmlUrl="https://vkc.sh/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://vkc.sh/"/>
+      <outline type="rss" text="gynvael" xmlUrl="https://gynvael.coldwind.pl/rss_en.php" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://gynvael.coldwind.pl"/>
     </outline>
     <outline text="Youtube" ttrssSortOrder="0">
       <outline type="rss" text="3Blue1Brown" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"/>
