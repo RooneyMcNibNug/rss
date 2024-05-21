@@ -37,6 +37,7 @@
       <outline type="rss" text="Veronica Explains" xmlUrl="https://vkc.sh/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://vkc.sh/"/>
       <outline type="rss" text="gynvael" xmlUrl="https://gynvael.coldwind.pl/rss_en.php" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://gynvael.coldwind.pl"/>
       <outline type="rss" text="rsadowski dot DE" xmlUrl="https://rsadowski.de/posts/index.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://rsadowski.de/posts/"/>
+      <outline type="rss" text="Aral Balkan" xmlUrl="https://ar.al/index.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://ar.al/"/>
     </outline>
     <outline text="Youtube" ttrssSortOrder="0">
       <outline type="rss" text="3Blue1Brown" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"/>
