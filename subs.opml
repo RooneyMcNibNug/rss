@@ -13,6 +13,7 @@
       <outline type="rss" text="Aeon | a world of ideas" xmlUrl="https://aeon.co/feed.rss" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://aeon.co"/>
       <outline type="rss" text="Happy Hour at Hippel's" xmlUrl="https://happyhourathippels.wordpress.com/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://happyhourathippels.wordpress.com"/>
       <outline type="rss" text="The Philosopher" xmlUrl="https://www.thephilosopher1923.org/blog-feed.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.thephilosopher1923.org/articles"/>
+      <outline type="rss" text="The Philosophy of Movement" xmlUrl="https://philosophy-of-movement.com/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://philosophy-of-movement.com/blog">
     </outline>
     <outline text="Tech" ttrssSortOrder="0">
       <outline type="rss" text="Ansible Blog" xmlUrl="https://www.ansible.com/blog/rss.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.ansible.com/blog"/>
@@ -104,5 +105,6 @@
     <outline type="rss" text="On Computer Games..." xmlUrl="https://oncomputer.games/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://oncomputer.games/"/>
     <outline type="rss" text="On Pop Music" xmlUrl="https://onpopmusic.com/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://onpopmusic.com/"/>
     <outline type="rss" text="Final Fantasy VIII is the Best" xmlUrl="https://ff8isthe.best/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://ff8isthe.best"/>
+  
   </body>
 </opml>
