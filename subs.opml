@@ -110,6 +110,7 @@
     <outline type="rss" text="On Computer Games..." xmlUrl="https://oncomputer.games/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://oncomputer.games/"/>
     <outline type="rss" text="On Pop Music" xmlUrl="https://onpopmusic.com/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://onpopmusic.com/"/>
     <outline type="rss" text="Final Fantasy VIII is the Best" xmlUrl="https://ff8isthe.best/feed/" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://ff8isthe.best"/>
-  
+    <outline type="rss" text="The Exegesis of Thomas Pynchon" xmlUrl="https://gravitysrainbow.substack.com/feed" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://gravitysrainbow.substack.com/"/>
+
   </body>
 </opml>
