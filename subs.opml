@@ -40,6 +40,8 @@
       <outline type="rss" text="rsadowski dot DE" xmlUrl="https://rsadowski.de/posts/index.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://rsadowski.de/posts/"/>
       <outline type="rss" text="Aral Balkan" xmlUrl="https://ar.al/index.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://ar.al/"/>
       <outline type="rss" text="CoolZone dot Tech" xmlUrl="https://cooltech.zone/atom.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://cooltech.zone/tangara/blog/"/>
+      <outline type="rss" text="Solene" xmlUrl="https://dataswamp.org/~solene/rss.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://dataswamp.org/~solene/"/>
+      <outline type="rss" text="maia blog" xmlUrl="https://maia.crimew.gay/feed.xml" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://maia.crimew.gay/posts/"/>
     </outline>
     <outline text="Youtube" ttrssSortOrder="0">
       <outline type="rss" text="3Blue1Brown" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" ttrssSortOrder="0" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw"/>
