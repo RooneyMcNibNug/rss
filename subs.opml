@@ -131,6 +131,8 @@
             xmlUrl="https://blog.archive.org/feed/" htmlUrl="https://blog.archive.org"/>
       <outline text="EFF Updates" title="EFF Updates" type="rss" 
             xmlUrl="https://www.eff.org/rss/updates.xml" htmlUrl="https://www.eff.org/rss/updates.xml"/>
+      <outline text="x61 blog" title="x61 blog" type="rss" 
+            xmlUrl="https://x61.sh/log/rss.xml" htmlUrl="https://x61.sh/log/"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
