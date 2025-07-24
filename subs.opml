@@ -133,6 +133,8 @@
             xmlUrl="https://www.eff.org/rss/updates.xml" htmlUrl="https://www.eff.org/rss/updates.xml"/>
       <outline text="x61 blog" title="x61 blog" type="rss" 
             xmlUrl="https://x61.sh/log/rss.xml" htmlUrl="https://x61.sh/log/"/>
+      <outline text="Arch Linux Dev Blog" title="Arch Linux Dev Blog" type="rss" 
+            xmlUrl="https://devblog.archlinux.page/atom.xml" htmlUrl="https://devblog.archlinux.page/"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
