@@ -137,6 +137,10 @@
             xmlUrl="https://devblog.archlinux.page/atom.xml" htmlUrl="https://devblog.archlinux.page/"/>
       <outline text="Jeff Geerling Youtube" title="Jeff Geerling Youtube" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg" htmlUrl="https://www.youtube.com/channel/UCR-DXc1voovS8nhAvccRZhg"/>
+      <outline text="FrostKiwi's Secrets" title="FrostKiwi's Secrets" type="rss" 
+            xmlUrl="https://blog.frost.kiwi/feed.xml" htmlUrl="https://blog.frost.kiwi/"/>
+      <outline text="adventures in 9" title="adventures in 9" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7qFfPYl0t8Cq7auyblZqxA" htmlUrl="https://www.youtube.com/channel/UC7qFfPYl0t8Cq7auyblZqxA"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
@@ -211,6 +215,8 @@
             xmlUrl="https://ff8isthe.best/feed/" htmlUrl="https://ff8isthe.best"/>
       <outline text="DanielNaroditskyGM" title="DanielNaroditskyGM" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHP9CdeguNUI-_nBv_UXBhw" htmlUrl="https://www.youtube.com/channel/UCHP9CdeguNUI-_nBv_UXBhw"/>
+      <outline text="Read Only Memo" title="Read Only Memo" type="rss" 
+            xmlUrl="https://www.readonlymemo.com/rss/" htmlUrl="https://www.readonlymemo.com/"/>
   </outline>
 </body>
 </opml>
