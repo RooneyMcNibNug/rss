@@ -217,6 +217,8 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHP9CdeguNUI-_nBv_UXBhw" htmlUrl="https://www.youtube.com/channel/UCHP9CdeguNUI-_nBv_UXBhw"/>
       <outline text="Read Only Memo" title="Read Only Memo" type="rss" 
             xmlUrl="https://www.readonlymemo.com/rss/" htmlUrl="https://www.readonlymemo.com/"/>
+      <outline text="Analogue Co." title="Analogue Company" type="rss" 
+            xmlUrl="https://www.analogue.co/feed/all" htmlUrl="https://www.analogue.co/"/>
   </outline>
 </body>
 </opml>
