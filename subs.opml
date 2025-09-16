@@ -141,6 +141,8 @@
             xmlUrl="https://blog.frost.kiwi/feed.xml" htmlUrl="https://blog.frost.kiwi/"/>
       <outline text="adventures in 9" title="adventures in 9" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7qFfPYl0t8Cq7auyblZqxA" htmlUrl="https://www.youtube.com/channel/UC7qFfPYl0t8Cq7auyblZqxA"/>
+      <outline text="GrapheneOS Releases" title="GrapheneOS Releases" type="rss" 
+            xmlUrl="https://grapheneos.org/releases.atom" htmlUrl="https://grapheneos.org/releases#changelog"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
