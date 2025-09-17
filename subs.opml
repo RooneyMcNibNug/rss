@@ -143,6 +143,10 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7qFfPYl0t8Cq7auyblZqxA" htmlUrl="https://www.youtube.com/channel/UC7qFfPYl0t8Cq7auyblZqxA"/>
       <outline text="GrapheneOS Releases" title="GrapheneOS Releases" type="rss" 
             xmlUrl="https://grapheneos.org/releases.atom" htmlUrl="https://grapheneos.org/releases#changelog"/>
+      <outline text="famfo.xyz blog" title="famfo.xyz blog" type="rss" 
+            xmlUrl="https://famfo.xyz/rss.xml" htmlUrl="https://famfo.xyz/blog/"/>
+      <outline text="boxin.space blog" title="boxin.space blog" type="rss" 
+            xmlUrl="https://boxin.space/rss" htmlUrl="https://boxin.space/blog"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
