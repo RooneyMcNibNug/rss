@@ -147,6 +147,8 @@
             xmlUrl="https://famfo.xyz/rss.xml" htmlUrl="https://famfo.xyz/blog/"/>
       <outline text="boxin.space blog" title="boxin.space blog" type="rss" 
             xmlUrl="https://boxin.space/rss" htmlUrl="https://boxin.space/blog"/>
+      <outline text="Privacy Guides blog feed" title="Privacy Guides blog feed" type="rss" 
+            xmlUrl="https://www.privacyguides.org/articles/feed_rss_created.xml" htmlUrl="https://www.privacyguides.org/articles/"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
