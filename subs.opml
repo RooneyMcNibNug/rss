@@ -169,6 +169,8 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC26YLK0OEbLB3TCYxGh8xVQ" htmlUrl="https://www.youtube.com/channel/UC26YLK0OEbLB3TCYxGh8xVQ"/>
       <outline text="mycophobia's web site" title="mycophobia's web site" type="rss" 
             xmlUrl="https://mycophobia.org/atom.xml" htmlUrl="https://mycophobia.org/index.html"/>
+      <outline text="worm-blossom" title="worm-blossom" type="rss" 
+            xmlUrl="https://worm-blossom.org/rss.xml" htmlUrl="https://worm-blossom.org/"/>
   </outline>
   <outline title="Reading" text="Reading">
       <outline text="LibriVox Blog Feed" title="LibriVox Blog Feed" type="rss" 
