@@ -149,6 +149,8 @@
             xmlUrl="https://boxin.space/rss" htmlUrl="https://boxin.space/blog"/>
       <outline text="Privacy Guides blog feed" title="Privacy Guides blog feed" type="rss" 
             xmlUrl="https://www.privacyguides.org/articles/feed_rss_created.xml" htmlUrl="https://www.privacyguides.org/articles/"/>
+      <outline text="Rob Bowley's Blog" title="Rob Bowley's Blog" type="rss" 
+            xmlUrl="https://blog.robbowley.net/feed/" htmlUrl="https://blog.robbowley.net/"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
@@ -171,6 +173,8 @@
             xmlUrl="https://mycophobia.org/atom.xml" htmlUrl="https://mycophobia.org/index.html"/>
       <outline text="worm-blossom" title="worm-blossom" type="rss" 
             xmlUrl="https://worm-blossom.org/rss.xml" htmlUrl="https://worm-blossom.org/"/>
+      <outline text="Benn Jordan" title="Benn Jordan" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCshObcm-nLhbu8MY50EZ5Ng" htmlUrl="https://www.youtube.com/channel/UCshObcm-nLhbu8MY50EZ5Ng"/>
   </outline>
   <outline title="Reading" text="Reading">
       <outline text="LibriVox Blog Feed" title="LibriVox Blog Feed" type="rss" 
