@@ -187,6 +187,8 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTOpzYH-oB1_TFVTodtXhpg" htmlUrl="https://www.youtube.com/channel/UCTOpzYH-oB1_TFVTodtXhpg"/>
       <outline text="Mapping the Zone Podcast" title="Mapping the Zone Podcast" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFoeB2ZD4ZNE-1rw9owP_Xw" htmlUrl="https://www.youtube.com/channel/UCFoeB2ZD4ZNE-1rw9owP_Xw"/>
+      <outline text="Mapping the Zone Podcast" title="Mapping the Zone Podcast" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFoeB2ZD4ZNE-1rw9owP_Xw" htmlUrl="https://www.youtube.com/channel/UCFoeB2ZD4ZNE-1rw9owP_Xw"/>
   </outline>
   <outline title="Film" text="Film">
       <outline text="Criterion Collection" title="Criterion Collection" type="rss" 
@@ -195,8 +197,8 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIdVOofoUN2rWQPLHX6xmJw" htmlUrl="https://www.youtube.com/channel/UCIdVOofoUN2rWQPLHX6xmJw"/>
       <outline text="The Cinema Cartography" title="The Cinema Cartography" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL5kBJmBUVFLYBDiSiK1VDw" htmlUrl="https://www.youtube.com/channel/UCL5kBJmBUVFLYBDiSiK1VDw"/>
-      <outline text="Field of Vision" title="Field of Vision" type="rss" 
-            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCa2hckND-aq_hTu-Q-ZyfvA" htmlUrl="https://www.youtube.com/channel/UCa2hckND-aq_hTu-Q-ZyfvA"/>
+      <outline text="howdoyouspell.cool" title="howdoyouspell.cool" type="rss" 
+            xmlUrl="https://howdoyouspell.cool/forrest/feed/" htmlUrl="https://howdoyouspell.cool/forrest/"/>
   </outline>
   <outline title="Music" text="Music">
       <outline text="Cadence Hira" title="Cadence Hira" type="rss" 
