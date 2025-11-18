@@ -37,6 +37,8 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCj3OfEL94d1m2_nPPxEBq-w" htmlUrl="https://www.youtube.com/channel/UCj3OfEL94d1m2_nPPxEBq-w"/>
       <outline text="Ill Will" title="Ill Will" type="rss" 
             xmlUrl="https://illwill.com/feed.xml" htmlUrl="https://illwill.com/"/>
+      <outline text="The Philosopher Magazine Youtube" title="The Philosopher Magazine Youtube" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM6Cf8wL4MjmIvll17x3sjw" htmlUrl="https://www.youtube.com/channel/UCM6Cf8wL4MjmIvll17x3sjw"/>
   </outline>
   <outline title="Tech" text="Tech">
       <outline text="Fedora Magazine" title="Fedora Magazine" type="rss" 
@@ -175,6 +177,8 @@
             xmlUrl="https://worm-blossom.org/rss.xml" htmlUrl="https://worm-blossom.org/"/>
       <outline text="Benn Jordan" title="Benn Jordan" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCshObcm-nLhbu8MY50EZ5Ng" htmlUrl="https://www.youtube.com/channel/UCshObcm-nLhbu8MY50EZ5Ng"/>
+      <outline text="bluelug Bike Shop Youtube" title="bluelug Bike Shop Youtube" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2PPG0jeEImrxRA3VN2jvgQ" htmlUrl="https://www.youtube.com/channel/UC2PPG0jeEImrxRA3VN2jvgQ"/>
   </outline>
   <outline title="Reading" text="Reading">
       <outline text="LibriVox Blog Feed" title="LibriVox Blog Feed" type="rss" 
@@ -215,6 +219,8 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC54SLBnD5k5U3Q6N__UjbAw" htmlUrl="https://www.youtube.com/channel/UC54SLBnD5k5U3Q6N__UjbAw"/>
       <outline text="Babish Culinary Universe" title="Babish Culinary Universe" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJHA_jMfCvEnv-3kRjTCQXw" htmlUrl="https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw"/>
+      <outline text="暮らしと珈琲の動画" title="tostinocoffee youtube" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7E4-AxhHeyxKXU_-LOFlkA" htmlUrl="https://www.youtube.com/channel/UC7E4-AxhHeyxKXU_-LOFlkA"/>
   </outline>
   <outline title="Games" text="Games">
       <outline text="The Obscuritory" title="The Obscuritory" type="rss" 
