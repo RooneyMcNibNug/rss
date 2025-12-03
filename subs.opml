@@ -179,6 +179,10 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCshObcm-nLhbu8MY50EZ5Ng" htmlUrl="https://www.youtube.com/channel/UCshObcm-nLhbu8MY50EZ5Ng"/>
       <outline text="bluelug Bike Shop Youtube" title="bluelug Bike Shop Youtube" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2PPG0jeEImrxRA3VN2jvgQ" htmlUrl="https://www.youtube.com/channel/UC2PPG0jeEImrxRA3VN2jvgQ"/>
+      <outline text="Garbage Time" title="Garbage Time Youtube" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHdpnvKJDijKNe2caIasnww" htmlUrl="https://www.youtube.com/channel/UCHdpnvKJDijKNe2caIasnww"/>
+      <outline text="HundredRabbits Youtube" title="HundredRabbits Youtube" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzdg4pZb-viC3EdA1zxRl4A" htmlUrl="https://www.youtube.com/channel/UCzdg4pZb-viC3EdA1zxRl4A"/>
   </outline>
   <outline title="Reading" text="Reading">
       <outline text="LibriVox Blog Feed" title="LibriVox Blog Feed" type="rss" 
