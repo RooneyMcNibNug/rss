@@ -153,6 +153,8 @@
             xmlUrl="https://www.privacyguides.org/articles/feed_rss_created.xml" htmlUrl="https://www.privacyguides.org/articles/"/>
       <outline text="Rob Bowley's Blog" title="Rob Bowley's Blog" type="rss" 
             xmlUrl="https://blog.robbowley.net/feed/" htmlUrl="https://blog.robbowley.net/"/>
+      <outline text="Plan 9 Foundation Youtube" title="Plan 9 Foundation Youtube" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGo-W1xUYhT0E8a0pj2Behg" htmlUrl="https://www.youtube.com/channel/UCGo-W1xUYhT0E8a0pj2Behg"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
