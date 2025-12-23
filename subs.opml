@@ -155,6 +155,20 @@
             xmlUrl="https://blog.robbowley.net/feed/" htmlUrl="https://blog.robbowley.net/"/>
       <outline text="Plan 9 Foundation Youtube" title="Plan 9 Foundation Youtube" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGo-W1xUYhT0E8a0pj2Behg" htmlUrl="https://www.youtube.com/channel/UCGo-W1xUYhT0E8a0pj2Behg"/>
+      <outline text="lambda.cx blog" title="lambda.cx blog" type="rss" 
+            xmlUrl="https://blog.lambda.cx/index.xml" htmlUrl="https://blog.lambda.cx/"/>
+      <outline text="Idiomdrottning blog" title="Idiomdrottning" type="rss" 
+            xmlUrl="https://idiomdrottning.org/blog" htmlUrl="https://idiomdrottning.org/blog"/>
+      <outline text="ag91 blog" title="ag91 blog" type="rss" 
+            xmlUrl="https://ag91.github.io/rss.xml" htmlUrl="https://ag91.github.io/blog/"/>
+      <outline text="The Dork Web blog" title="The Dork Web blog" type="rss" 
+            xmlUrl="https://thedorkweb.bearblog.dev/feed/?type=rss" htmlUrl="https://thedorkweb.bearblog.dev/blog/"/>
+      <outline text="kernelpanic.life" title="kernelpanic.life" type="rss" 
+            xmlUrl="https://kernelpanic.life/rss.xml" htmlUrl="https://kernelpanic.life/index.html"/>
+      <outline text="btxx blog" title="btxx blog" type="rss" 
+            xmlUrl="https://btxx.org/index.rss" htmlUrl="https://btxx.org/posts/"/>
+      <outline text="Halestrom's Peregrinations " title="Halestrom's Peregrinations " type="rss" 
+            xmlUrl="https://halestrom.net/darksleep/feed.atom" htmlUrl="https://halestrom.net/darksleep/"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
