@@ -169,6 +169,8 @@
             xmlUrl="https://btxx.org/index.rss" htmlUrl="https://btxx.org/posts/"/>
       <outline text="Halestrom's Peregrinations " title="Halestrom's Peregrinations " type="rss" 
             xmlUrl="https://halestrom.net/darksleep/feed.atom" htmlUrl="https://halestrom.net/darksleep/"/>
+      <outline text="ploum dot net" title="ploum dot net" type="rss" 
+            xmlUrl="https://ploum.net/atom_en.xml" htmlUrl="https://ploum.net/index_all.html"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
