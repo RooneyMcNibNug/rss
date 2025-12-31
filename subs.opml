@@ -201,6 +201,8 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHdpnvKJDijKNe2caIasnww" htmlUrl="https://www.youtube.com/channel/UCHdpnvKJDijKNe2caIasnww"/>
       <outline text="HundredRabbits Youtube" title="HundredRabbits Youtube" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzdg4pZb-viC3EdA1zxRl4A" htmlUrl="https://www.youtube.com/channel/UCzdg4pZb-viC3EdA1zxRl4A"/>
+      <outline text="Ava's Space" title="Ava's Space" type="rss" 
+            xmlUrl="http://blog.avas.space/feed" htmlUrl="https://blog.avas.space/"/>
   </outline>
   <outline title="Reading" text="Reading">
       <outline text="LibriVox Blog Feed" title="LibriVox Blog Feed" type="rss" 
