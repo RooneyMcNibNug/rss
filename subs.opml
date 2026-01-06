@@ -46,7 +46,7 @@
       <outline text="Julia Evans" title="Julia Evans" type="rss" 
             xmlUrl="https://jvns.ca/atom.xml"/>
       <outline text="Matthew Garrett" title="Matthew Garrett" type="rss" 
-            xmlUrl="https://mjg59.dreamwidth.org/data/rss" htmlUrl="https://mjg59.dreamwidth.org/"/>
+            xmlUrl="https://codon.org.uk/~mjg59/blog/index.xml" htmlUrl="https://codon.org.uk/~mjg59/blog/"/>
       <outline text="Mattermost Blog" title="Mattermost Blog" type="rss" 
             xmlUrl="https://mattermost.com/blog/feed" htmlUrl="https://mattermost.com/blog/"/>
       <outline text="Micah Lee&#39;s Blog" title="Micah Lee&#39;s Blog" type="rss" 
