@@ -245,6 +245,8 @@
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJHA_jMfCvEnv-3kRjTCQXw" htmlUrl="https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw"/>
       <outline text="暮らしと珈琲の動画" title="tostinocoffee youtube" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7E4-AxhHeyxKXU_-LOFlkA" htmlUrl="https://www.youtube.com/channel/UC7E4-AxhHeyxKXU_-LOFlkA"/>
+      <outline text="Tasting History with Max Miller" title="Tasting History with Max Miller" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsaGKqPZnGp_7N80hcHySGQ" htmlUrl="https://www.youtube.com/channel/UCsaGKqPZnGp_7N80hcHySGQ"/>
   </outline>
   <outline title="Games" text="Games">
       <outline text="The Obscuritory" title="The Obscuritory" type="rss" 
