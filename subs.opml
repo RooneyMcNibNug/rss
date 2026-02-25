@@ -171,6 +171,10 @@
             xmlUrl="https://halestrom.net/darksleep/feed.atom" htmlUrl="https://halestrom.net/darksleep/"/>
       <outline text="ploum dot net" title="ploum dot net" type="rss" 
             xmlUrl="https://ploum.net/atom_en.xml" htmlUrl="https://ploum.net/index_all.html"/>
+      <outline text="The Neo-Babbage Files" title="The Neo-Babbage Files" type="rss" 
+            xmlUrl="https://babbagefiles.xyz/posts/index.xml" htmlUrl="https://babbagefiles.xyz/posts/"/>
+      <outline text="Canal Swans" title="Canal Swans" type="rss" 
+            xmlUrl="https://canalswans.commoninternet.net/index.xml" htmlUrl="https://canalswans.commoninternet.net/"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
