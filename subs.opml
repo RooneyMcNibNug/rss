@@ -175,6 +175,10 @@
             xmlUrl="https://babbagefiles.xyz/posts/index.xml" htmlUrl="https://babbagefiles.xyz/posts/"/>
       <outline text="Canal Swans" title="Canal Swans" type="rss" 
             xmlUrl="https://canalswans.commoninternet.net/index.xml" htmlUrl="https://canalswans.commoninternet.net/"/>
+      <outline text="Oatmeal - A Digital Pillow Fort" title="Oatmeal - A Digital Pillow Fort" type="rss" 
+            xmlUrl="https://eli.li/feed.rss" htmlUrl="https://https://eli.li/"/>
+      <outline text="posixcafe" title="posixcafe" type="rss" 
+            xmlUrl="https://posixcafe.org/blogs/index.rss" htmlUrl="https://posixcafe.org/blogs/"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
