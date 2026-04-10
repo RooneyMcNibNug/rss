@@ -179,6 +179,8 @@
             xmlUrl="https://eli.li/feed.rss" htmlUrl="https://https://eli.li/"/>
       <outline text="posixcafe" title="posixcafe" type="rss" 
             xmlUrl="https://posixcafe.org/blogs/index.rss" htmlUrl="https://posixcafe.org/blogs/"/>
+      <outline text="jcs.org articles" title="jcs.org articles" type="rss" 
+            xmlUrl="https://jcs.org/notes/rss" htmlUrl="https://jcs.org/"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
