@@ -181,6 +181,8 @@
             xmlUrl="https://posixcafe.org/blogs/index.rss" htmlUrl="https://posixcafe.org/blogs/"/>
       <outline text="jcs.org articles" title="jcs.org articles" type="rss" 
             xmlUrl="https://jcs.org/notes/rss" htmlUrl="https://jcs.org/"/>
+      <outline text="9fans mailing list" title="9fans mailing list" type="rss" 
+            xmlUrl="https://inbox.vuxu.org/9fans/new.atom" htmlUrl="https://inbox.vuxu.org/9fans/"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
