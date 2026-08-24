@@ -183,6 +183,8 @@
             xmlUrl="https://jcs.org/notes/rss" htmlUrl="https://jcs.org/"/>
       <outline text="9fans mailing list" title="9fans mailing list" type="rss" 
             xmlUrl="https://inbox.vuxu.org/9fans/new.atom" htmlUrl="https://inbox.vuxu.org/9fans/"/>
+      <outline text="BSD Audit" title="BSD Audit" type="rss" 
+            xmlUrl="https://bsd-audit.com/atom.xml" htmlUrl="https://bsd-audit.com/"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
