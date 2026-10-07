@@ -39,6 +39,8 @@
             xmlUrl="https://illwill.com/feed.xml" htmlUrl="https://illwill.com/"/>
       <outline text="The Philosopher Magazine Youtube" title="The Philosopher Magazine Youtube" type="rss" 
             xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCM6Cf8wL4MjmIvll17x3sjw" htmlUrl="https://www.youtube.com/channel/UCM6Cf8wL4MjmIvll17x3sjw"/>
+      <outline text="A little light, like a rushlight" title="A little light, like a rushlight" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCuVb-sa5s06JEZsg0g1bVYQ" htmlUrl="https://www.youtube.com/channel/UCuVb-sa5s06JEZsg0g1bVYQ"/>
   </outline>
   <outline title="Tech" text="Tech">
       <outline text="Fedora Magazine" title="Fedora Magazine" type="rss" 
@@ -83,7 +85,7 @@
             xmlUrl="https://ar.al/index.xml" htmlUrl="https://ar.al/"/>
       <outline text="CoolZone dot Tech" title="CoolZone dot Tech" type="rss" 
             xmlUrl="https://cooltech.zone/atom.xml" htmlUrl="https://cooltech.zone"/>
-      <outline text="Solene" title="Solene" type="rss" 
+      <outline text="Solene" title="Solene" type="rss" https://forums.qhimm.com/index.php?topic=18404.0
             xmlUrl="https://dataswamp.org/~solene/rss.xml" htmlUrl="https://dataswamp.org/~solene/"/>
       <outline text="maia blog" title="maia blog" type="rss" 
             xmlUrl="https://maia.crimew.gay/feed.xml"/>
@@ -185,6 +187,8 @@
             xmlUrl="https://inbox.vuxu.org/9fans/new.atom" htmlUrl="https://inbox.vuxu.org/9fans/"/>
       <outline text="BSD Audit" title="BSD Audit" type="rss" 
             xmlUrl="https://bsd-audit.com/atom.xml" htmlUrl="https://bsd-audit.com/"/>
+      <outline text="Gentoo News" title="Gentoo News" type="rss" 
+            xmlUrl="https://www.gentoo.org/feeds/news.xml" htmlUrl="https://www.gentoo.org/news/"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
