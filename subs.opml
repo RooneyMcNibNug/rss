@@ -187,6 +187,8 @@
             xmlUrl="https://bsd-audit.com/atom.xml" htmlUrl="https://bsd-audit.com/"/>
       <outline text="Gentoo News" title="Gentoo News" type="rss" 
             xmlUrl="https://www.gentoo.org/feeds/news.xml" htmlUrl="https://www.gentoo.org/news/"/>
+      <outline text="Leaded Solder" title="Leaded Solder" type="rss" 
+            xmlUrl="https://www.leadedsolder.com/feed.xml" htmlUrl="https://www.leadedsolder.com/"/>
   </outline>
   <outline title="Other" text="Other">
       <outline text="Channel 5 News" title="Channel 5 News" type="rss" 
